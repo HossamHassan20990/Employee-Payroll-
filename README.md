@@ -65,5 +65,4 @@ It provides an interactive experience with filters for years and months, allowin
 Note: This dashboard uses dummy data for demonstration purposes.
 
 **Made by:** [Hossam Hassan]  
-Let me know if you need modifications or additional insights! 🚀
 
